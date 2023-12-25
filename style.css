@@ -336,7 +336,7 @@ body {
 
 #slider {
 
-    background:  linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.747)), url(img/slider.JPG);
+    background:  linear-gradient(rgba(0, 0, 0, 0.37), rgba(0, 0, 0, 0.747)), url("https://brigate.vercel.app/img/slide-1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     width: 100%;
